@@ -6,7 +6,7 @@
 
 "spider":"https://agit.ai/txcgb/TVBox/raw/branch/master/jar/TVBox2.jar;md5;6a92e85399922ff0fd7813bbc2f09957",
 
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=https://agit.ai/txcgb/TVBox/raw/branch/master/zb.txt"]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=https://agit.ai/txcgb/TVBox/raw/branch/master/zb2.txt"]}]}],
 
 "sites":[
 {"key":"七七","name":"酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
