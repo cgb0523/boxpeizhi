@@ -1,9 +1,9 @@
 {
 //Update:2022-12-01 18:26:59.007629
 
-//"spider":"https://agit.ai/txcgb/TVBox/raw/branch/master/TVBox.jar;md5;112dd3396623b4bebbad3ebd67fb2929",
+//"spider":"https://agit.ai/txcgb/TVBox/raw/branch/master/jar/TVBox.jar;md5;112dd3396623b4bebbad3ebd67fb2929",
 
-"spider":"https://agit.ai/txcgb/TVBox/raw/branch/master/TVBox2.jar;md5;6a92e85399922ff0fd7813bbc2f09957",
+"spider":"https://agit.ai/txcgb/TVBox/raw/branch/master/jar/TVBox2.jar;md5;6a92e85399922ff0fd7813bbc2f09957",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL0N5cmlsMDU2My9sYW5qaW5nX2xpdmVAbWFpbi9UVmJveF9GcmVlL0xJVkUvRnJlZS90dmJveF9saXZlLnR4dA=="]}]}],
 
