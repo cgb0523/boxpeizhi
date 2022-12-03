@@ -1,17 +1,9 @@
 {
 //Update:2022-12-01 18:26:59.007629
 
-//"spider":"http://txcgb.intelyes.tk/json/TVbox9527/jar/0902.jar",
-
-//"spider":"http://txcgb.intelyes.tk/json/TVbox9527/jar/TVBox2.jar;md5;6a92e85399922ff0fd7813bbc2f09957",
+//"spider":"https://agit.ai/txcgb/TVBox/raw/branch/master/TVBox.jar;md5;112dd3396623b4bebbad3ebd67fb2929",
 
 "spider":"https://agit.ai/txcgb/TVBox/raw/branch/master/TVBox2.jar;md5;6a92e85399922ff0fd7813bbc2f09957",
-
-//"spider":"http://ys-i.ysepan.com/374992331/419705012/iuVsgWt545553368IMLLc4/TVBox0902.jar",
-
-//"spider":"http://ys-i.ysepan.com/374992314/419705066/o6563286554NJ3htUujsa0/TVBox2.jar;md5;6A92E85399922FF0FD7813BBC2F09957",
-
-//"spider":"https://download.kstore.space/download/3376/1128.jar;md5;6A92E85399922FF0FD7813BBC2F09957",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL0N5cmlsMDU2My9sYW5qaW5nX2xpdmVAbWFpbi9UVmJveF9GcmVlL0xJVkUvRnJlZS90dmJveF9saXZlLnR4dA=="]}]}],
 
