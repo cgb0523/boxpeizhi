@@ -3,7 +3,9 @@
 
 //"spider":"http://txcgb.intelyes.tk/json/TVbox9527/jar/0902.jar",
 
-"spider":"http://txcgb.intelyes.tk/json/TVbox9527/jar/TVBox2.jar;md5;6a92e85399922ff0fd7813bbc2f09957",
+//"spider":"http://txcgb.intelyes.tk/json/TVbox9527/jar/TVBox2.jar;md5;6a92e85399922ff0fd7813bbc2f09957",
+
+"spider":"https://agit.ai/txcgb/TVBox/raw/branch/master/TVBox2.jar;md5;6a92e85399922ff0fd7813bbc2f09957",
 
 //"spider":"http://ys-i.ysepan.com/374992331/419705012/iuVsgWt545553368IMLLc4/TVBox0902.jar",
 
