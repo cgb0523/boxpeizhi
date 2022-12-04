@@ -3,7 +3,7 @@
 
 //"spider":"http://txcgb.intelyes.tk/json/TVbox9527/jar/TVBox2.jar;md5;6a92e85399922ff0fd7813bbc2f09957",
 
-"spider":"https://agit.ai/txcgb/TVBox/raw/branch/master/jar/0902.jar;md5;e3602ef6df8ee3b9f00433b2bc34cc68",
+"spider":"https://agit.ai/txcgb/TVBox/raw/branch/master/jar/TVBox2.jar;md5;6a92e85399922ff0fd7813bbc2f09957",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3R4Y2diL1RWQm94L3Jhdy9icmFuY2gvbWFzdGVyL2xpdmUvemhpYm9iZXN0LnR4dA=="]}]}],
 
