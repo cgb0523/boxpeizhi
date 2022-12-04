@@ -1,11 +1,17 @@
 {
 //Update:2022-12-01 18:26:59.007629
 
-//"spider":"https://agit.ai/txcgb/TVBox/raw/branch/master/jar/TVBox.jar;md5;112dd3396623b4bebbad3ebd67fb2929",
+//"spider":"http://txcgb.intelyes.tk/json/TVbox9527/jar/0902.jar",
 
-"spider":"https://agit.ai/txcgb/TVBox/raw/branch/master/jar/TVBox2.jar;md5;6a92e85399922ff0fd7813bbc2f09957",
+"spider":"http://txcgb.intelyes.tk/json/TVbox9527/jar/TVBox2.jar;md5;6a92e85399922ff0fd7813bbc2f09957",
 
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=https://agit.ai/txcgb/TVBox/raw/branch/master/zb2.txt"]}]}],
+//"spider":"http://ys-i.ysepan.com/374992331/419705012/iuVsgWt545553368IMLLc4/TVBox0902.jar",
+
+//"spider":"http://ys-i.ysepan.com/374992314/419705066/o6563286554NJ3htUujsa0/TVBox2.jar",
+
+//"spider":"https://download.kstore.space/download/3376/1128.jar;md5;6A92E85399922FF0FD7813BBC2F09957",
+
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3R4Y2diL1RWQm94L3Jhdy9icmFuY2gvbWFzdGVyL2xpdmUvemhpYm9iZXN0LnR4dA=="]}]}],
 
 "sites":[
 {"key":"七七","name":"酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
@@ -17,10 +23,9 @@
 {"key":"快看影视","name":"快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_小苹果源","name":"小苹果源","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "神马影院","name": "神马影院","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"龙腾资源","name":"龙腾资源","type":1,"api":"http://175.178.7.35:2020/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key": "Lezhu","name": "乐猪影视","api": "csp_Lezhu","type": 3,"playUrl":"http://yy.freeee.ml/jx/?url=","filterable": 1,"quickSearch": 1,"searchable": 1},
 {"key":"儿童","name":"儿童乐园","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitlab.com/duomv/duo/-/raw/main/Bili/%E5%84%BF%E7%AB%A5%E4%B9%90%E5%9B%AD.json"},
-{"key":"学习","name":"学习园地","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitlab.com/duomv/duo/-/raw/main/Bili/%E5%AD%A6%E4%B9%A0%E5%9B%AD%E5%9C%B0.json"},
+//{"key":"学习","name":"学习园地","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitlab.com/duomv/duo/-/raw/main/Bili/%E5%AD%A6%E4%B9%A0%E5%9B%AD%E5%9C%B0.json"},
 {"key":"美食","name":"美食合集","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitlab.com/duomv/duo/-/raw/main/Bili/%E7%BE%8E%E9%A3%9F%E5%90%88%E9%9B%86.json"},
 {"key":"音乐","name":"音乐现场","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitlab.com/duomv/duo/-/raw/main/Bili/%E9%9F%B3%E4%B9%90%E7%8E%B0%E5%9C%BA.json"},
 {"key":"py_bilibili","name":"哔哩哔哩","type":3,"api":"py_bilibili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_bilibili.py"},
