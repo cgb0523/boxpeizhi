@@ -7,7 +7,7 @@
 
 //"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=https://agit.ai/txcgb/TVBox/raw/branch/master/live/zhibobest.txt"]}]}],
 
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=https://agit.ai/txcgb/TVBox/raw/branch/master/live/live-chan.txt"]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=https://agit.ai/txcgb/TVBox/raw/branch/master/live/zb2.txt"]}]}],
 
 "sites":[
 {"key":"七七","name":"酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
