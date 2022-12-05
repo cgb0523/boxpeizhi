@@ -1,29 +1,3 @@
-4K,#genre#
-4K超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?zzhongd
-4k超高清,http://open.live-web.timetv.cn/live03/cctv4k.m3u8
-8K超高清,http://117.148.179.157/PLTV/88888888/224/3221233439/index.m3u8?zzhongd
-CCTV4K F,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-CCTV4K,http://39.135.55.72:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-CCTV4K,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233400/index.m3u8
-CCTV4K,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233454/index.m3u8
-CCTV8K,http://117.148.179.146/PLTV/88888888/224/3221233413/index.m3u8
-CCTV8K,http://117.148.179.148/PLTV/88888888/224/3221233350/1.m3u8
-CCTV8K,http://117.148.179.148:80/PLTV/88888888/224/3221233350/1.m3u8
-CCTV8K,http://117.148.179.157/PLTV/88888888/224/3221233413/index.m3u8
-CCTV8K,http://117.148.179.157/PLTV/88888888/224/3221233439/index.m3u8
-CCTV8K,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233413/index.m3u8
-爱上4k,http://111.20.33.93/PLTV/88888893/224/3221226352/index.m3u8
-爱上4K,http://111.20.33.93/TVOD/88888893/224/3221226352/index.m3u8
-纯享4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
-纯享4k,http://39.135.138.58:18890/PLTV/88888888/224/3221225786/index.m3u8
-纯享4K,http://39.135.138.59:18890/PLTV/88888910/224/3221225786/index.m3u8
-纯享4K,http://39.135.138.60:18890/PLTV/88888910/224/3221225786/index.m3u8
-纯享4k,http://39.135.32.10:6610/000000001000/HD-20M-2160P-chunxiang4k/1.m3u8?IASHttpSessionId=OTT
-纯享4k,http://39.135.32.10:6610/000000001000/HD-20M-2160P-chunxiang4k/1.m3u8?IASHttpSessionId=OTT
-纯享4k,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
-欢笑剧场4k,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
-苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-影院4k,http://epg.112114.xyz/douyu/9249162
 央视,#genre#
 CCTV1,http://39.134.65.141/PLTV/88888888/224/3221225816/1.m3u8
 CCTV1,http://39.134.65.143/PLTV/88888888/224/3221225816/1.m3u8
@@ -298,6 +272,34 @@ CETV-1,http://111.59.63.32:9901/tsfile/live/1024_1.m3u8
 CETV-2,http://111.63.117.13:6060/030000001000/G_CETV-2/G_CETV-2.m3u8
 CETV-3,http://117.148.179.136/PLTV/88888888/224/3221231543/index.m3u8
 CETV-4,http://111.63.117.13:6060/030000001000/G_CETV-4/G_CETV-4.m3u8
+
+4K,#genre#
+4K超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?zzhongd
+4k超高清,http://open.live-web.timetv.cn/live03/cctv4k.m3u8
+8K超高清,http://117.148.179.157/PLTV/88888888/224/3221233439/index.m3u8?zzhongd
+CCTV4K F,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+CCTV4K,http://39.135.55.72:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+CCTV4K,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233400/index.m3u8
+CCTV4K,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233454/index.m3u8
+CCTV8K,http://117.148.179.146/PLTV/88888888/224/3221233413/index.m3u8
+CCTV8K,http://117.148.179.148/PLTV/88888888/224/3221233350/1.m3u8
+CCTV8K,http://117.148.179.148:80/PLTV/88888888/224/3221233350/1.m3u8
+CCTV8K,http://117.148.179.157/PLTV/88888888/224/3221233413/index.m3u8
+CCTV8K,http://117.148.179.157/PLTV/88888888/224/3221233439/index.m3u8
+CCTV8K,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233413/index.m3u8
+爱上4k,http://111.20.33.93/PLTV/88888893/224/3221226352/index.m3u8
+爱上4K,http://111.20.33.93/TVOD/88888893/224/3221226352/index.m3u8
+纯享4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
+纯享4k,http://39.135.138.58:18890/PLTV/88888888/224/3221225786/index.m3u8
+纯享4K,http://39.135.138.59:18890/PLTV/88888910/224/3221225786/index.m3u8
+纯享4K,http://39.135.138.60:18890/PLTV/88888910/224/3221225786/index.m3u8
+纯享4k,http://39.135.32.10:6610/000000001000/HD-20M-2160P-chunxiang4k/1.m3u8?IASHttpSessionId=OTT
+纯享4k,http://39.135.32.10:6610/000000001000/HD-20M-2160P-chunxiang4k/1.m3u8?IASHttpSessionId=OTT
+纯享4k,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
+欢笑剧场4k,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
+苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+影院4k,http://epg.112114.xyz/douyu/9249162
+
 卫视,#genre#
 湖南卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225490/index.m3u8?fmt=ts2hls
 湖南卫视,http://39.136.48.18:8089/PLTV/88888888/224/3221225767/index.m3u8
@@ -541,7 +543,6 @@ CETV-4,http://111.63.117.13:6060/030000001000/G_CETV-4/G_CETV-4.m3u8
 新疆卫视,http://218.204.51.252:9901/tsfile/live/1044_1.m3u8
 新疆卫视,http://livehyw5.chinamcache.com/hyw/zb01.m3u8?txSecret=58347f72aece2c25c685b8dc4da74652&txTime=95A66658
 
-
 湖南,#genre#
 湖南都市,http://124.232.233.15:6610/000000001001/201600020003/1400.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2&ztecid=201500000245&ispcode=3
 湖南都市,http://124.232.233.15:6610/000000001001/201600020003/1400.m3u8?m3u8_level=2
@@ -596,6 +597,7 @@ CETV-4,http://111.63.117.13:6060/030000001000/G_CETV-4/G_CETV-4.m3u8
 永州公共,http://stream.21ytv.com/gg/playlist.m3u8?_upt=2f1afe4a1638954105
 东安综合,http://play-dgv-xhncloud.voc.com.cn/live/5243_Twis7r.m3u8
 点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8
+
 广西,#genre#
 百色综合,http://39.135.32.236:6610/PLTV/77777777/224/3221225900/index.m3u8?
 南宁新闻综合,http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8?zguangxd
@@ -644,6 +646,7 @@ CETV-4,http://111.63.117.13:6060/030000001000/G_CETV-4/G_CETV-4.m3u8
 田东综合,https://live-cdn.gxxw.com/gx/tiandong/index.m3u8?zguangxd
 田阳综合,https://cdn.gdlive.gdmain.com/live/0yzvdpr5.m3u8?zguangxd
 西林综合,https://cdn.gdlive.gdmain.com/live/lj16xrkl.m3u8?zguangxd
+
 上海,#genre#
 东方,http://39.135.32.10:6610/000000001000/HD-4000k-1080P-dongfangstv/1.m3u8?IASHttpSessionId=OTT?zshangd
 东方影院,http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8?zshangd
@@ -672,6 +675,7 @@ CETV-4,http://111.63.117.13:6060/030000001000/G_CETV-4/G_CETV-4.m3u8
 天水公共,http://stream.tstv.cn/tstc938Yn3ggpd/playlist.m3u8?shanghai
 崇明电视台,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8?zshangd
 金山电视台,http://live.mudu.tv/watch/4zbn2f.m3u8?zshangd
+
 广东,#genre#
 广东,http://39.135.32.24:6610/000000001000/1000000001000028357/1.m3u8?xtkg?zguangd
 南方卫视,http://39.135.32.24:6610/000000001000/1000000002000011619/1.m3u8?xtkg?zguangd
@@ -707,6 +711,7 @@ CETV-4,http://111.63.117.13:6060/030000001000/G_CETV-4/G_CETV-4.m3u8
 阳江公共,https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_b1152000.m3u8?zguangd
 云浮综合,https://pili-live-hdl-ysx.tianma3600.com/gdyf/gdyfzh.m3u8?zguangd
 云浮公共,https://pili-live-hdl-ysx.tianma3600.com/gdyf/gdyfgg.m3u8?zguangd
+
 浙江,#genre#
 浙江,http://39.135.32.10:6610/000000001000/HD-4000k-1080P-zhejiangstv/1.m3u8?IASHttpSessionId=OTT?zzhed
 浙江钱江都市,http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?zzhed
@@ -813,6 +818,7 @@ CETV-4,http://111.63.117.13:6060/030000001000/G_CETV-4/G_CETV-4.m3u8
 宁波-余姚综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed
 宁波-余姚经济,http://live.wzqmt.com/wztv2/sd/live.m3u8?zzhed
 宁波-象山综合,http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8?zzhed
+
 福建,#genre#
 东南,http://39.135.32.24:6610/000000001000/1000000002000009263/1.m3u8?xtkg?zfud
 厦门卫视,http://39.135.32.10:6610/000000001000/SD-4000k-576P-xiamenstv/1.m3u8?IASHttpSessionId=OTT?zfud
@@ -843,6 +849,7 @@ CETV-4,http://111.63.117.13:6060/030000001000/G_CETV-4/G_CETV-4.m3u8
 晋江电视台,http://stream.jinjiang.tv/1/sd/live.m3u8?zfud
 云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian
 漳浦综合,http://220.161.87.62:8090/hls/0/index.m3u8?zfud
+
 江苏,#genre#
 江苏,http://39.135.32.24:6610/000000001000/1000000001000004684/1.m3u8?xtkg?zjiangsd
 优漫卡通,http://39.135.32.10:6610/000000001000/SD-4000k-576P-youmankaton/1.m3u8?IASHttpSessionId=OTT?zjiangsd
@@ -989,6 +996,7 @@ CETV-4,http://111.63.117.13:6060/030000001000/G_CETV-4/G_CETV-4.m3u8
 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/720p.m3u8?zzhed
 浙江少儿,http://yd-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?zzhed
 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
+
 堆堆,#genre#
 埋堆堆1,http://txtest-xp2p.p2p.huya.com/src/1199561277675-1199561277675-5434860597135015936-2399122678806-10057-A-0-1.xs
 埋堆堆2,http://txtest-xp2p.p2p.huya.com/src/1199563477578-1199563477578-5444309108574388224-2399127078612-10057-A-0-1.xs
@@ -1063,36 +1071,37 @@ EU超时任务『埋堆』,http://txtest-xp2p.p2p.huya.com/src/1199561223711-119
 奸人语录iTVB大后宫『埋堆』,http://txtest-xp2p.p2p.huya.com/src/1199563486009-1199563486009-5444345319443660800-2399127095474-10057-A-0-1.xs
 楚留香-TVB经典『埋堆』,http://txtest-xp2p.p2p.huya.com/src/1199561463578-1199561463578-5435659044440244224-2399123050612-10057-A-0-1.xs
 【斗气一族】青涩周星星『埋堆』,http://txtest-xp2p.p2p.huya.com/src/1199564062365-1199564062365-5446820749614514176-2399128248186-10057-A-0-1.xs
+
 NewTv,#genre#
-电视剧,http://39.134.115.163:8080/PLTV/88888910/224/3221225625/index.m3u8
-体育,http://39.135.138.58:18890/PLTV/88888888/224/3221225622/index.m3u8
-体育,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225767/index.m3u8
-综艺,http://39.135.138.58:18890/PLTV/88888888/224/3221225620/index.m3u8
-综艺,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225768/index.m3u8
-潮妈辣婆 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225708/index.m3u8
-东北热剧,http://39.135.138.58:18890/PLTV/88888888/224/3221226202/index.m3u8
-东北热剧,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226202/index.m3u8
-古装剧场 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225678/index.m3u8
-海外剧场 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225712/index.m3u8
-欢乐剧场,http://39.135.138.58:18890/PLTV/88888888/224/3221226210/index.m3u8
-欢乐剧场,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226210/index.m3u8
-家庭剧场,http://111.40.196.9/PLTV/88888888/224/3221225626/index.m3u8
-家庭剧场,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225713/index.m3u8
-金牌综艺,http://111.40.196.9/PLTV/88888888/224/3221225650/index.m3u8
-金牌综艺,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225711/index.m3u8
-精品大剧 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225714/index.m3u8
-精品纪录 2.5M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225710/index.m3u8
-军旅剧场 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225669/index.m3u8
-军事评论,http://111.40.196.9/PLTV/88888888/224/3221225634/index.m3u8
-军事评论,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225757/index.m3u8
-明星大片,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225716/index.m3u8
-农业致富,http://111.40.196.9/PLTV/88888888/224/3221225636/index.m3u8
-农业致富,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225670/index.m3u8
-武搏世界,http://111.40.196.9/PLTV/88888888/224/3221225664/index.m3u8
-武搏世界,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225656/index.m3u8
-炫舞未来,http://39.135.138.58:18890/PLTV/88888888/224/3221225707/index.m3u8
-炫舞未来,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225707/index.m3u8
-怡伴健康 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225666/index.m3u8
-中国功夫,http://111.40.196.9/PLTV/88888888/224/3221225678/index.m3u8
-中国功夫,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225660/index.m3u8
+NewTV超级电视剧,http://39.134.115.163:8080/PLTV/88888910/224/3221225625/index.m3u8
+NewTV超级体育,http://39.135.138.58:18890/PLTV/88888888/224/3221225622/index.m3u8
+NewTV超级体育,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225767/index.m3u8
+NewTV超级综艺,http://39.135.138.58:18890/PLTV/88888888/224/3221225620/index.m3u8
+NewTV超级综艺,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225768/index.m3u8
+NewTV潮妈辣婆 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225708/index.m3u8
+NewTV东北热剧,http://39.135.138.58:18890/PLTV/88888888/224/3221226202/index.m3u8
+NewTV东北热剧,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226202/index.m3u8
+NewTV古装剧场 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225678/index.m3u8
+NewTV海外剧场 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225712/index.m3u8
+NewTV欢乐剧场,http://39.135.138.58:18890/PLTV/88888888/224/3221226210/index.m3u8
+NewTV欢乐剧场,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226210/index.m3u8
+NewTV家庭剧场,http://111.40.196.9/PLTV/88888888/224/3221225626/index.m3u8
+NewTV家庭剧场,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225713/index.m3u8
+NewTV金牌综艺,http://111.40.196.9/PLTV/88888888/224/3221225650/index.m3u8
+NewTV金牌综艺,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225711/index.m3u8
+NewTV精品大剧 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225714/index.m3u8
+NewTV精品纪录 2.5M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225710/index.m3u8
+NewTV军旅剧场 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225669/index.m3u8
+NewTV军事评论,http://111.40.196.9/PLTV/88888888/224/3221225634/index.m3u8
+NewTV军事评论,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225757/index.m3u8
+NewTV明星大片,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225716/index.m3u8
+NewTV农业致富,http://111.40.196.9/PLTV/88888888/224/3221225636/index.m3u8
+NewTV农业致富,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225670/index.m3u8
+NewTV武搏世界,http://111.40.196.9/PLTV/88888888/224/3221225664/index.m3u8
+NewTV武搏世界,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225656/index.m3u8
+NewTV炫舞未来,http://39.135.138.58:18890/PLTV/88888888/224/3221225707/index.m3u8
+NewTV炫舞未来,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225707/index.m3u8
+NewTV怡伴健康 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225666/index.m3u8
+NewTV中国功夫,http://111.40.196.9/PLTV/88888888/224/3221225678/index.m3u8
+NewTV中国功夫,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225660/index.m3u8
 
