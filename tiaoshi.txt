@@ -223,7 +223,6 @@
     }
   ],
   "zhujiexi": [
-{"name":"txcgb","url":"http://txcgb.intelyes.tk/jx/?url="},
    {"name":"刘兵","url":"http://newjiexi.gotka.top/keyu3.php?url="},
 {"name":"云you","url":"http://chaloli.cn/home/api?type=ys&uid=1942949&key=bfijlnovBCEGHJTV09&url="},
 {"name":"ckflv","url":"http://api.ckflv.cn/?url="},
