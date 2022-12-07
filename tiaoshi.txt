@@ -3,41 +3,39 @@
         {
             "key": "采集",
             "title": "采集接口",
-            "pic": "https://agit.ai/txcgb/TVBox/raw/branch/master/pic/zhuye.png"
+            "pic": "http://ys-j.ysepan.com/374992316/419707059/j48652M353HQ85kvTflcd9/zhuye.png"
         },
         {
             "key": "网页",
             "title": "自定义接口",
-            "pic": "https://agit.ai/txcgb/TVBox/raw/branch/master/pic/web.png"
+            "pic": "http://ys-j.ysepan.com/374992356/419707057/j48652M353M95muRile45/web.png"
         },
         {
             "key": "APP",
             "title": "APP资源",
-            "pic": "https://agit.ai/txcgb/TVBox/raw/branch/master/pic/APP.png"
+            "pic": "http://ys-j.ysepan.com/374992344/419707053/l73385L245JL4MkyQemg96/APP.png"
         },
         {
             "key": "直播",
             "title": "电视直播",
-            "pic": "https://agit.ai/txcgb/TVBox/raw/branch/master/pic/zb.png"
+            "pic": "http://ys-j.ysepan.com/374992311/419707058/kvTflco46471K655HO6677/zb.png"
         },
         {
             "key": "历史",
             "title": "历史记录",
-            "pic": "https://agit.ai/txcgb/TVBox/raw/branch/master/pic/his.png"
+            "pic": "http://ys-j.ysepan.com/374992355/419707055/muRileq34773K437FM8N3f/his.png"
         },
         {
             "key": "收藏",
             "title": "收藏记录",
-            "pic": "https://agit.ai/txcgb/TVBox/raw/branch/master/pic/fav.png"
+            "pic": "http://ys-j.ysepan.com/374992350/419707054/n54555J267HM6KmuRile2f/fav.png"
         },
         {
             "key": "推送",
             "title": "影片推送",
-            "pic": "https://agit.ai/txcgb/TVBox/raw/branch/master/pic/tui.png"
+            "pic": "http://ys-j.ysepan.com/374992359/419707056/muRileq54555J267HM6U57/tui.png"
         }
     ],
-    
-    
     "zhuyejiekou": [
         {
             "name": "👑工众號：應佣多多",
@@ -88,8 +86,6 @@
             "url": "http://luobo.yugenye.site/api.php/v1.vod"
         }
     ],
-    
-    
     "caijizhan": [
         {
             "name": "👑酷云77",
@@ -220,8 +216,6 @@
             "url": "https://ckzy.me/api.php"
         }
     ],
-    
-    
     "zhujiexi": [
         {
             "name": "free",
@@ -236,8 +230,6 @@
             "url": "https://jx.zhanlangbu.com/?url="
         }
     ],
-    
-    
     "beiyongjiexi": [
         {
             "name": "txcgb",
@@ -264,17 +256,9 @@
             "url": "https://jx.zhanlangbu.com/?url="
         }
     ],
-    
-    
     "dianshizhibo": "https://agit.ai/txcgb/TVBox/raw/branch/master/live/zhibobest.txt",
-    
-    
     "嗅探词": "m3u8?#ixigua#.czspp#.m3u8#mp4#.flv#.mp3#.m4a#?video_id=",
-    
-    
     "guolvdizhi": ".gif#.css#.ico#.html#51.la#poster#?url=#file=#cnzz.com#baidu.com#tootw.com#auete.com#bilibili.com",
-    
-    
     "zidingyi": [
         {
             "name": "👑工众號：應佣多多",
@@ -365,6 +349,124 @@
             "bfqianzhui": "空",
             "bfhouzhui": "空",
             "bfjiexi": "空"
+        },
+        {
+            "name": "骚火电影",
+            "url": "https://shdy3.com",
+            "tihuan": "cnzz.com",
+            "User": "空",
+            "fenlei": "影片推荐$/?#电影$/list/1-#电视剧$/list/2-#动漫$/list/4-#脱口秀$/list/28-#真人秀$/list/29-#选秀$/list/30-#美食$/list/31-#旅游$/list/32-#汽车$/list/33-#访谈$/list/34-#纪实$/list/35-#搞笑$/list/36-#其他综艺$/list/37-",
+            "houzhui": ".html",
+            "shifouercijiequ": "0",
+            "jiequqian": "空",
+            "jiequhou": "空",
+            "jiequshuzuqian": "<div class=\"v_img\">",
+            "jiequshuzuhou": "<div class=\"v_note\">",
+            "tupianqian": "data-original=\"",
+            "tupianhou": "\"",
+            "biaotiqian": "title=\"",
+            "biaotihou": "\"",
+            "lianjieqian": "href=\"",
+            "lianjiehou": "\"",
+            "sousuoqian": "/search.php?searchword=",
+            "sousuohou": "",
+            "sousuohouzhui": "/movie/",
+            "ssmoshi": "1",
+            "sousuoshifouercijiequ": "0",
+            "jspic": "pic",
+            "jsname": "name",
+            "jsid": "id",
+            "ssjiequqian": "空",
+            "ssjiequhou": "空",
+            "ssjiequshuzuqian": "<div class=\"v_img\">",
+            "ssjiequshuzuhou": "<div class=\"v_note\">",
+            "sstupianqian": "data-original=\"",
+            "sstupianhou": "\"",
+            "ssbiaotiqian": "title=\"",
+            "ssbiaotihou": "\"",
+            "sslianjieqian": "href=\"",
+            "sslianjiehou": "\"",
+            "bfshifouercijiequ": "0",
+            "bfjiequqian": "空",
+            "bfjiequhou": "空",
+            "bfjiequshuzuqian": "id=\"play_link\">",
+            "bfjiequshuzuhou": "</ul>",
+            "zhuangtaiqian": "</h1><p>",
+            "zhuangtaihou": "导演",
+            "daoyanqian": "导演：",
+            "daoyanhou": "主演",
+            "zhuyanqian": "主演：",
+            "zhuyanhou": "</p>",
+            "juqingqian": "class=\"p_txt show_part\">",
+            "juqinghou": "<br",
+            "bfyshifouercijiequ": "0",
+            "bfyjiequqian": "空",
+            "bfyjiequhou": "空",
+            "bfyjiequshuzuqian": "<a",
+            "bfyjiequshuzuhou": "/a>",
+            "bfbiaotiqian": ">",
+            "bfbiaotihou": "<",
+            "bflianjieqian": "href=\"",
+            "bflianjiehou": "\""
+        },
+        {
+            "name": "影视工厂",
+            "url": "https://www.ysgc.cc",
+            "tihuan": "cnzz.com",
+            "User": "空",
+            "fenlei": "电视剧$/vodshow/2--------#电影$/vodshow/1--------#综艺$/vodshow/3--------#动漫$/vodshow/4--------",
+            "houzhui": "---.html",
+            "shifouercijiequ": "0",
+            "jiequqian": "空",
+            "jiequhou": "空",
+            "jiequshuzuqian": "class=\"myui-vodlist__box\"",
+            "jiequshuzuhou": "</span>",
+            "tupianqian": "original=\"",
+            "tupianhou": "\"",
+            "biaotiqian": "title=\"",
+            "biaotihou": "\"",
+            "lianjieqian": "href=\"",
+            "lianjiehou": "\"",
+            "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
+            "sousuohou": "&limit=500",
+            "sousuohouzhui": "/voddetail/",
+            "ssmoshi": "1",
+            "sousuoshifouercijiequ": "0",
+            "jspic": "pic",
+            "jsname": "name",
+            "jsid": "id",
+            "ssjiequqian": "空",
+            "ssjiequhou": "空",
+            "ssjiequshuzuqian": "空",
+            "ssjiequshuzuhou": "空",
+            "sstupianqian": "空",
+            "sstupianhou": "空",
+            "ssbiaotiqian": "空",
+            "ssbiaotihou": "空",
+            "sslianjieqian": "空",
+            "sslianjiehou": "空",
+            "bfshifouercijiequ": "0",
+            "bfjiequqian": "空",
+            "bfjiequhou": "空",
+            "bfjiequshuzuqian": "id=\"playlist",
+            "bfjiequshuzuhou": "</ul>",
+            "zhuangtaiqian": "class=\"otherbox\">",
+            "zhuangtaihou": "</p>",
+            "daoyanqian": "导演：</span>",
+            "daoyanhou": "</p>",
+            "zhuyanqian": "主演：</span>",
+            "zhuyanhou": "</p>",
+            "juqingqian": "style=\"display: none;\">",
+            "juqinghou": "</span>",
+            "bfyshifouercijiequ": "0",
+            "bfyjiequqian": "空",
+            "bfyjiequhou": "空",
+            "bfyjiequshuzuqian": "<a",
+            "bfyjiequshuzuhou": "/a>",
+            "bfbiaotiqian": ">",
+            "bfbiaotihou": "<",
+            "bflianjieqian": "href=\"",
+            "bflianjiehou": "\""
         },
         {
             "name": "bili-动物世界",
@@ -887,65 +989,6 @@
             "bfqianzhui": "空",
             "bfhouzhui": "空",
             "bfjiexi": "空"
-        },
-        {
-            "网站名字": "皮皮炮",
-            "网站地址": "https://www.pipipao.com",
-            "访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
-            "访问请求cookie": "空",
-            "访问请求referer": "空",
-            "播放请求头": "User-Agent$123",
-            "图片请求头": "空",
-            "启用js加载源码": "0",
-            "js加载源码时间": "4",
-            "嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
-            "过滤词": "?url=#.css#51.la#cnzz.com#baidu.com#bilibili.com",
-            "是否记录历史": "0",
-            "直接播放": "0",
-            "列表显示": "0",
-            "横图显示": "0",
-            "列表起始页": "1",
-            "列表分类": "电视剧$/vodshow/id/dianshiju/page/#电影$/vodshow/id/dianying/page/#综艺$/vodshow/id/zongyi/page/#动漫$/vodshow/id/dongman/page/",
-            "列表后缀": ".html",
-            "列表二次截取": "空",
-            "列表截取数组": "class=\"stui-vodlist__box\"$$</a>",
-            "列表图片前缀": "空",
-            "列表图片": "original=\"$$\"",
-            "列表标题": "title=\"$$\"",
-            "列表副标题": "class=\"pic-text text-right\">$$</span>",
-            "列表链接": "href=\"$$\"",
-            "列表链接前缀": "空",
-            "列表链接后缀": "空",
-            "搜索请求方式": "0",
-            "搜索模式": "0",
-            "搜索前": "/index.php/ajax/suggest?mid=1&wd=",
-            "搜索后": "&limit=150",
-            "搜索连接后缀": "/vod/",
-            "搜索二次截取": "空",
-            "搜索截取数组": "前$$后",
-            "搜索图片前缀": "空",
-            "搜索图片": "original=\"$$\"",
-            "搜索标题": "title=\"$$\"",
-            "搜索副标题": "class=\"pic-text text-right\">$$</span>",
-            "搜索链接": "href=\"$$\"",
-            "搜索链接前缀": "空",
-            "搜索链接后缀": "空",
-            "启用线路名": "1",
-            "线路名二次截取": "空",
-            "线路名截取数组": "class=\"more$$</div>",
-            "线路名标题": "/>$$</h3>",
-            "播放页状态": "class=\"pic-text text-right\">$$</span>",
-            "播放页导演": "导演：$$</p>",
-            "播放页演员": "主演：$$</p>",
-            "播放页剧情": "<p class=\"col-pd\">$$</p>",
-            "播放页二次截取": "空",
-            "播放页截取数组": "class=\"stui-content__playlist$$</ul>",
-            "播放剧集二次截取": "空",
-            "播放剧集截取数组": "<a$$/a>",
-            "播放剧集标题": ">$$<",
-            "播放剧集链接": "href=\"$$\"",
-            "播放剧集链接前缀": "空",
-            "播放剧集链接后缀": "空"
         },
         {
             "name": "独播库",
