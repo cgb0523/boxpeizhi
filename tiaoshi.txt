@@ -223,7 +223,7 @@
 {"name":"无名","url":"https://www.administratorw.com/video.php?url="},
 {"name":"m3u8tv高清","url":"https://jx.m3u8.tv/jiexi/?url="},
 {"name":"OKjx综合","url":"https://okjx.cc/?url="},
-{"name":"爱酷嗅探","url":"https://jx.zhanlangbu.com/?url="}
+{"name":"爱酷嗅探","url":"https://jx.zhanlangbu.com/?url="},
    {"name":"刘兵","url":"http://newjiexi.gotka.top/keyu3.php?url="},
 {"name":"云you","url":"http://chaloli.cn/home/api?type=ys&uid=1942949&key=bfijlnovBCEGHJTV09&url="},
 {"name":"ckflv","url":"http://api.ckflv.cn/?url="},
