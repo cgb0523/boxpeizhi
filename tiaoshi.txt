@@ -4,37 +4,37 @@
     {
       "key":"采集",
       "title":"主页",
-      "pic": "https://pic.imgdb.cn/item/62fc35af16f2c2beb14e1843.png"
+      "pic": "https://agit.ai/txcgb/TVBox/raw/branch/master/pic/zhuye.png"
     },
     {
       "key":"网页",
       "title":"网页",
-      "pic": "https://pic.imgdb.cn/item/62fc35af16f2c2beb14e1855.png"
+      "pic": "https://agit.ai/txcgb/TVBox/raw/branch/master/pic/web.png"
     },
     {
       "key":"APP",
       "title":"APP",
-      "pic": "https://pic.imgdb.cn/item/62fc363716f2c2beb14e4012.png"
+      "pic": "https://agit.ai/txcgb/TVBox/raw/branch/master/pic/APP.png"
     },
     {
       "key":"直播",
       "title":"直播",
-      "pic": "https://pic.imgdb.cn/item/62fc35af16f2c2beb14e183d.png"
+      "pic": "https://agit.ai/txcgb/TVBox/raw/branch/master/pic/zb.png"
     },
     {
       "key":"历史",
       "title": "历史",
-      "pic": "https://pic.imgdb.cn/item/62fc35af16f2c2beb14e1839.png"
+      "pic": "https://agit.ai/txcgb/TVBox/raw/branch/master/pic/his.png"
     },
     {
       "key":"收藏",
       "title":"收藏",
-      "pic": "https://pic.imgdb.cn/item/62fc35af16f2c2beb14e184c.png"
+      "pic": "https://agit.ai/txcgb/TVBox/raw/branch/master/pic/fav.png"
     },
     {
       "key":"推送",
       "title":"推送",
-      "pic": "https://pic.imgdb.cn/item/62fc363716f2c2beb14e400f.png"
+      "pic": "https://agit.ai/txcgb/TVBox/raw/branch/master/pic/tui.png"
     }
   ],
   "zhuyejiekou": [
