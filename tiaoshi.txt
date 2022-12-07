@@ -4,218 +4,87 @@
     {
       "key":"采集",
       "title":"主页",
-      "pic": "https://i.niupic.com/images/2022/10/03/a5Zk.jpg"
+      "pic": "https://pic.imgdb.cn/item/62fc35af16f2c2beb14e1843.png"
     },
     {
       "key":"网页",
       "title":"网页",
-      "pic": "https://i.niupic.com/images/2022/10/03/a5Zl.jpg"
+      "pic": "https://pic.imgdb.cn/item/62fc35af16f2c2beb14e1855.png"
     },
     {
       "key":"APP",
       "title":"APP",
-      "pic": "https://i.niupic.com/images/2022/10/03/a5Zm.jpg"
+      "pic": "https://pic.imgdb.cn/item/62fc363716f2c2beb14e4012.png"
     },
     {
       "key":"直播",
       "title":"直播",
-      "pic": "https://i.niupic.com/images/2022/10/03/a5Zn.jpg"
+      "pic": "https://pic.imgdb.cn/item/62fc35af16f2c2beb14e183d.png"
     },
     {
       "key":"历史",
       "title": "历史",
-      "pic": "https://i.niupic.com/images/2022/10/03/a5Zo.jpg"
+      "pic": "https://pic.imgdb.cn/item/62fc35af16f2c2beb14e1839.png"
     },
     {
       "key":"收藏",
       "title":"收藏",
-      "pic": "https://i.niupic.com/images/2022/10/03/a5Zp.jpg"
+      "pic": "https://pic.imgdb.cn/item/62fc35af16f2c2beb14e184c.png"
     },
     {
       "key":"推送",
       "title":"推送",
-      "pic": "https://i.niupic.com/images/2022/10/03/a5Zq.jpg"
+      "pic": "https://pic.imgdb.cn/item/62fc363716f2c2beb14e400f.png"
     }
   ],
   "zhuyejiekou": [
-    {
-      "name": "👑工众號：應佣多多",
-      "url": "https://www.idianying.com.cn/mogai_api.php/v1.vod"
-    },
-    {
-      "name": "🚀暖光影视",
-      "url": "https://app.bl210.com/api.php/v1.vod"
-    },
-    {
-      "name": "🚀52看剧(萝卜)",
-      "url": "http://tool.xxmlb.com/qingdoujiekou.php/v1.vod"
-    },
-    {
-      "name": "🚀影库",
-      "url": "https://yingkudy.com/lvdou_api.php/v1.vod"
-    },
-    {
-      "name": "🚀爱酷影视",
-      "url": "https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"
-    },
-    {
-      "name": "🚀百淘影视",
-      "url": "http://ys.58g8.com/lvdou_api.php/v1.vod"
-    },
-    {
-      "name": "🚀段友影视2",
-      "url": "https://shangjihuoke.com/api.php/tv.vod"
-    },
-    {
-      "name": "🚀冷视TV",
-      "url": "https://len.tv/api.php/v1.vod"
-    },
-    {
-      "name": "🚀万能影院",
-      "url": "http://app.wnvod.net/lvdou_api.php/v1.vod"
-    },
-    {
-      "name": "🚀蜗牛动漫",
-      "url": "http://woniudm.woniu.cyou:20000/mogai_api.php/v1.vod"
-    },
-    {
-      "name": "🚀小鸟动漫",
-      "url": "http://xydm.baicai.buzz/mogai_api.php/v1.vod"
-    },
-    {
-      "name": "🚀渔渔影视",
-      "url": "http://luobo.yugenye.site/api.php/v1.vod"
-    }
+    {"name": "👑工众號：應佣多多","url": "https://www.idianying.com.cn/mogai_api.php/v1.vod"},
+    {"name": "🚀暖光影视","url": "https://app.bl210.com/api.php/v1.vod"},
+    {"name": "🚀52看剧(萝卜)","url": "http://tool.xxmlb.com/qingdoujiekou.php/v1.vod"},
+    {"name": "🚀影库","url": "https://yingkudy.com/lvdou_api.php/v1.vod"},
+    {"name": "🚀爱酷影视","url": "https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"},
+    {"name": "🚀百淘影视","url": "http://ys.58g8.com/lvdou_api.php/v1.vod"},
+    {"name": "🚀段友影视2","url": "https://shangjihuoke.com/api.php/tv.vod"},
+    {"name": "🚀冷视TV","url": "https://len.tv/api.php/v1.vod"},
+    {"name": "🚀万能影院","url": "http://app.wnvod.net/lvdou_api.php/v1.vod"},
+    {"name": "🚀蜗牛动漫","url": "http://woniudm.woniu.cyou:20000/mogai_api.php/v1.vod"},
+    {"name": "🚀小鸟动漫","url": "http://xydm.baicai.buzz/mogai_api.php/v1.vod"},
+    {"name": "🚀渔渔影视","url": "http://luobo.yugenye.site/api.php/v1.vod"}
   ],
   "caijizhan": [
-    {
-      "name": "👑工众號：應佣多多",
-      "url": "http://api.kunyu77.com/api.php"
+    {"name": "👑工众號：應佣多多","url": "http://api.kunyu77.com/api.php"},
+    {"name": "🍇多多资源","url": "https://www.ddzyz1.com/api.php"},
+    {"name": "🍇红牛资源","url": "https://www.hongniuzy2.com/api.php"},
+    {"name": "🍇晓辉资源","url": "https://www.xhzy01.com/api.php"},
+    {"name": "🍇老子采集","url": "http://cj.lziapi.com/api.php"},
+    {"name": "🍇诺讯采集","url": "http://caiji.nxflv.com/api.php"},
+    {"name": "🍇1080资源库","url": "https://api.1080zyku.com/inc/api_mac10.php"
     },
-    {
-      "name": "🍇多多资源",
-      "url": "https://www.ddzyz1.com/api.php"
-    },
-    {
-      "name": "🍇红牛资源",
-      "url": "https://www.hongniuzy2.com/api.php"
-    },
-    {
-      "name": "🍇晓辉资源",
-      "url": "https://www.xhzy01.com/api.php"
-    },
-    {
-      "name": "🍇老子采集",
-      "url": "http://cj.lziapi.com/api.php"
-    },
-    {
-      "name": "🍇诺讯采集",
-      "url": "http://caiji.nxflv.com/api.php"
-    },
-    {
-      "name": "🍇1080资源库",
-      "url": "https://api.1080zyku.com/inc/api_mac10.php"
-    },
-    {
-      "name": "🍇天堂资源",
-      "url": "http://vipmv.cc/api.php"
-    },
-    {
-      "name": "🍇土狗2345",
-      "url": "http://2345.tgzy.cc/api.php"
-    },
-    {
-      "name": "🍇土狗360",
-      "url": "http://360.tgzy.cc/api.php"
-    },
-    {
-      "name": "🍇忆梦",
-      "url": "http://anltv.cn/api.php"
-    },
-    {
-      "name": "🍇木子看剧",
-      "url": "https://mzkj.maccms.cf/api.php"
-    },
-    {
-      "name": "🍇冠军资源",
-      "url": "https://www.cmpzy.com/api.php"
-    },
-    {
-      "name": "🍇快车资源",
-      "url": "https://caiji.kczyapi.com/api.php"
-    },
-    {
-      "name": "🍇FOX资源",
-      "url": "https://api.foxzyapi.com/api.php"
-    },
-    {
-      "name": "🍇量子资源",
-      "url": "http://cj.lziapi.com/api.php"
-    },
-    {
-      "name": "🍇卧龙资源",
-      "url": "https://collect.wolongzyw.com/api.php"
-    },
-    {
-      "name": "🍇樱花资源",
-      "url": "https://m3u8.apiyhzy.com/api.php"
-    },
-    {
-      "name": "🍇酷点资源",
-      "url": "https://kudianzy.com/api.php"
-    },
-    {
-      "name": "🍇闪电资源",
-      "url": "http://sdzyapi.com/api.php"
-    },
-    {
-      "name": "🍇鱼乐资源",
-      "url": "https://api.ylzy1.com/api.php"
-    },
-    {
-      "name": "🍇快播资源",
-      "url": "http://www.kuaibozy.com/api.php"
-    },
-    {
-      "name": "🍇789盘",
-      "url": "https://www.rrvipw.com/api.php"
-    },
-    {
-      "name": "🍇段友影视",
-      "url": "http://shangjihuoke.com/api.php"
-    },
-    {
-      "name": "🍇乐活影视",
-      "url": "https://lehootv.com/api.php"
-    },
-    {
-      "name": "🍇39影视",
-      "url": "https://www.39kan.com/api.php"
-    },
-    {
-      "name": "🍇飘花电影",
-      "url": "http://www.zzrhgg.com/api.php"
-    },
-    {
-      "name": "🍇千寻时光",
-      "url": "http://wy.dqyhg.cn/api.php"
-    },
-    {
-      "name": "🍇海外电影",
-      "url": "https://www.200121.com/api.php"
-    },
-    {
-      "name": "🍇天空TV",
-      "url": "http://tv.tkys.tv/api.php/iptv/vod/"
-    },
-    {
-      "name": "🍇CV影视",
-      "url": "http://www.cccvvv.top/api.php/iptv/vod/"
-    },
-    {
-      "name": "🍇CK资源",
-      "url": "https://ckzy.me/api.php"
-    }
+    {"name": "🍇天堂资源","url": "http://vipmv.cc/api.php"},
+    {"name": "🍇土狗2345","url": "http://2345.tgzy.cc/api.php"},
+    {"name": "🍇土狗360","url": "http://360.tgzy.cc/api.php"},
+    {"name": "🍇忆梦","url": "http://anltv.cn/api.php"},
+    {"name": "🍇木子看剧","url": "https://mzkj.maccms.cf/api.php"},
+    {"name": "🍇冠军资源","url": "https://www.cmpzy.com/api.php"},
+    {"name": "🍇快车资源","url": "https://caiji.kczyapi.com/api.php"},
+    {"name": "🍇FOX资源","url": "https://api.foxzyapi.com/api.php"},
+    {"name": "🍇量子资源","url": "http://cj.lziapi.com/api.php"},
+    {"name": "🍇卧龙资源","url": "https://collect.wolongzyw.com/api.php"},
+    {"name": "🍇樱花资源","url": "https://m3u8.apiyhzy.com/api.php"},
+    {"name": "🍇酷点资源","url": "https://kudianzy.com/api.php"},
+    {"name": "🍇闪电资源","url": "http://sdzyapi.com/api.php"},
+    {"name": "🍇鱼乐资源","url": "https://api.ylzy1.com/api.php"},
+    {"name": "🍇快播资源","url": "http://www.kuaibozy.com/api.php"},
+    {"name": "🍇789盘","url": "https://www.rrvipw.com/api.php"},
+    {"name": "🍇段友影视","url": "http://shangjihuoke.com/api.php"},
+    {"name": "🍇乐活影视","url": "https://lehootv.com/api.php"},
+    {"name": "🍇39影视","url": "https://www.39kan.com/api.php"},
+    {"name": "🍇飘花电影","url": "http://www.zzrhgg.com/api.php"},
+    {"name": "🍇千寻时光","url": "http://wy.dqyhg.cn/api.php"},
+    {"name": "🍇海外电影","url": "https://www.200121.com/api.php"},
+    {"name": "🍇天空TV","url": "http://tv.tkys.tv/api.php/iptv/vod/"},
+    {"name": "🍇CV影视","url": "http://www.cccvvv.top/api.php/iptv/vod/"},
+    {"name": "🍇CK资源","url": "https://ckzy.me/api.php"}
   ],
   "zhujiexi": [
 {"name":"txcgb","url":"http://txcgb.intelyes.tk/jx/?url="},
@@ -284,13 +153,15 @@
 {"name":"备解15","url":"https://www.ckplayer.vip/jiexi/?url="},
 {"name":"解析","url":"http://jx5.178du.com/p1/?url="} ], 
 // 电视直播的接口链接
-"dianshizhibo":"https://agit.ai/txcgb/TVBox/raw/branch/master/live/zhibobest.txt",
+ "dianshizhibo":"https://agit.ai/txcgb/TVBox/raw/branch/master/live/zhibobest.txt",
+
+
   "嗅探词": "m3u8?#ixigua#.czspp#.m3u8#mp4#.flv#.mp3#.m4a#?video_id=",
   "guolvdizhi": ".gif#.css#.ico#.html#51.la#poster#?url=#file=#cnzz.com#baidu.com#tootw.com#auete.com#bilibili.com",
-  "zidingyi": [
-    {
-      "name": "👑工众號：應佣多多",
-      "url": "https://www.fantuanhd.com",
+  
+  
+"zidingyi": [
+    {"name": "👑工众號：應佣多多","url": "https://www.fantuanhd.com",
       "ua": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36",
       "User": "User-Agent$123",
       "嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
@@ -378,9 +249,7 @@
       "bfhouzhui": "空",
       "bfjiexi": "空"
     },
-    {
-      "name": "bili-动物世界",
-      "url": "https://api.bilibili.com",
+    {"name": "bili-动物世界","url": "https://api.bilibili.com",
       "ua": "Mozilla/5.0 (Linux; Android 10; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36",
       "cookie": "innersign=0; buvid3=91BA4E1F-9AB1-F767-2F4D-68AE15871D4A82900infoc; i-wanna-go-back=-1; b_ut=7; b_lsid=103349ECA_182D2DA1881; _uuid=C52B10B4C-DD103-9DFC-FDB5-A38936101E64A84754infoc; buvid4=E048FB7D-A337-F0BB-544C-7AB3F7315AD184247-122082510-jfKjb2w6jTb32s8uEefwlw%3D%3D; buvid_fp=af25c71ea5abec45eebfffd42c02aab7; nostalgia_conf=-1; b_timer=%7B%22ffp%22%3A%7B%22333.400.fp.risk_91BA4E1F%22%3A%22182D2DA1A1B%22%2C%22333.337.fp.risk_91BA4E1F%22%3A%22182D2E5CF15%22%7D%7D; CURRENT_BLACKGAP=0; CURRENT_FNVAL=80; sid=6zxrig3u; PVID=1",
       "User": "空",
