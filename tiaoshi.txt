@@ -1,21 +1,25 @@
 //持续关注工众號：應佣多多，及时获取最新免费优质软件，本接口自网络收集，仅为不会写代码而又想使用调试助手的粉丝提供便利之用，作者不是本人，而是多位网络大佬，如有冒犯，请联系删除，谢谢！
 {
   "Home": [
+ 
     {
       "key":"采集",
       "title":"主页",
       "pic": "https://agit.ai/txcgb/TVBox/raw/branch/master/pic/zhuye.png"
     },
+   
     {
       "key":"网页",
       "title":"网页",
       "pic": "https://agit.ai/txcgb/TVBox/raw/branch/master/pic/web.png"
     },
+   
     {
       "key":"APP",
       "title":"APP",
       "pic": "https://agit.ai/txcgb/TVBox/raw/branch/master/pic/APP.png"
     },
+   
     {
       "key":"直播",
       "title":"直播",
@@ -52,8 +56,7 @@
     {"name": "🚀渔渔影视","url": "http://luobo.yugenye.site/api.php/v1.vod"}
   ],
   "caijizhan": [
-    {"name": "👑工众號：應佣多多","url": "http://api.kunyu77.com/api.php"},
-    {"name": "🍇多多资源","url": "https://www.ddzyz1.com/api.php"},
+    {"name": "👑酷云77","url": "http://api.kunyu77.com/api.php"},
     {"name": "🍇红牛资源","url": "https://www.hongniuzy2.com/api.php"},
     {"name": "🍇晓辉资源","url": "https://www.xhzy01.com/api.php"},
     {"name": "🍇老子采集","url": "http://cj.lziapi.com/api.php"},
@@ -73,6 +76,7 @@
     {"name": "🍇樱花资源","url": "https://m3u8.apiyhzy.com/api.php"},
     {"name": "🍇酷点资源","url": "https://kudianzy.com/api.php"},
     {"name": "🍇闪电资源","url": "http://sdzyapi.com/api.php"},
+    {"name": "🍇百度资源","url": "https://api.apibdzy.com/api.php/"},
     {"name": "🍇鱼乐资源","url": "https://api.ylzy1.com/api.php"},
     {"name": "🍇快播资源","url": "http://www.kuaibozy.com/api.php"},
     {"name": "🍇789盘","url": "https://www.rrvipw.com/api.php"},
@@ -152,11 +156,12 @@
 {"name":"备解14","url":"https://go.yh0523.cn/y.cy?url="},
 {"name":"备解15","url":"https://www.ckplayer.vip/jiexi/?url="},
 {"name":"解析","url":"http://jx5.178du.com/p1/?url="} ], 
-// 电视直播的接口链接
+
  "dianshizhibo":"https://agit.ai/txcgb/TVBox/raw/branch/master/live/zhibobest.txt",
 
 
   "嗅探词": "m3u8?#ixigua#.czspp#.m3u8#mp4#.flv#.mp3#.m4a#?video_id=",
+  
   "guolvdizhi": ".gif#.css#.ico#.html#51.la#poster#?url=#file=#cnzz.com#baidu.com#tootw.com#auete.com#bilibili.com",
   
   
