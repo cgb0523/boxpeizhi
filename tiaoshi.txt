@@ -35,11 +35,6 @@
       "key":"推送",
       "title":"推送",
       "pic": "https://i.niupic.com/images/2022/10/03/a5Zq.jpg"
-    },
-    {
-      "key":"工众號：應佣多多",
-      "title":"工众號：應佣多多",
-      "pic": "https://i.niupic.com/images/2022/10/03/a5Zr.jpg"
     }
   ],
   "zhuyejiekou": [
@@ -223,6 +218,12 @@
     }
   ],
   "zhujiexi": [
+{"name":"txcgb","url":"http://txcgb.intelyes.tk/jx/?url="},
+{"name":"小狼云","url":"https://jx.xiaolangyun.com/?url="},
+{"name":"无名","url":"https://www.administratorw.com/video.php?url="},
+{"name":"m3u8tv高清","url":"https://jx.m3u8.tv/jiexi/?url="},
+{"name":"OKjx综合","url":"https://okjx.cc/?url="},
+{"name":"爱酷嗅探","url":"https://jx.zhanlangbu.com/?url="}
    {"name":"刘兵","url":"http://newjiexi.gotka.top/keyu3.php?url="},
 {"name":"云you","url":"http://chaloli.cn/home/api?type=ys&uid=1942949&key=bfijlnovBCEGHJTV09&url="},
 {"name":"ckflv","url":"http://api.ckflv.cn/?url="},
@@ -283,7 +284,7 @@
 {"name":"备解15","url":"https://www.ckplayer.vip/jiexi/?url="},
 {"name":"解析","url":"http://jx5.178du.com/p1/?url="} ], 
 // 电视直播的接口链接
-"dianshizhibo":"http://home.jundie.top:81/ray/tvlive.txt",
+"dianshizhibo":"https://agit.ai/txcgb/TVBox/raw/branch/master/live/zhibobest.txt",
   "嗅探词": "m3u8?#ixigua#.czspp#.m3u8#mp4#.flv#.mp3#.m4a#?video_id=",
   "guolvdizhi": ".gif#.css#.ico#.html#51.la#poster#?url=#file=#cnzz.com#baidu.com#tootw.com#auete.com#bilibili.com",
   "zidingyi": [
