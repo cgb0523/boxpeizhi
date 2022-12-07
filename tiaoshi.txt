@@ -7,7 +7,7 @@
         },
         {
             "key": "网页",
-            "title": "网页接口",
+            "title": "自定义接口",
             "pic": "https://agit.ai/txcgb/TVBox/raw/branch/master/pic/web.png"
         },
         {
@@ -398,7 +398,7 @@
             "jsid": "id",
             "sousuoqian": "/x/web-interface/search/type?search_type=video&page=1&page_size=16&keyword=",
             "sousuohou": "",
-            "ssmoshi": "1",
+            "ssmoshi": "0",
             "sousuoshifouercijiequ": "0",
             "ssjiequqian": "空",
             "ssjiequhou": "空",
@@ -537,7 +537,7 @@
             "jsid": "id",
             "sousuoqian": "/x/web-interface/search/type?search_type=video&page=1&page_size=16&keyword=",
             "sousuohou": "",
-            "ssmoshi": "1",
+            "ssmoshi": "0",
             "sousuoshifouercijiequ": "0",
             "ssjiequqian": "空",
             "ssjiequhou": "空",
@@ -4674,7 +4674,7 @@
             "jsid": "id",
             "sousuoqian": "/x/web-interface/search/type?search_type=video&page=1&page_size=16&keyword=",
             "sousuohou": "",
-            "ssmoshi": "1",
+            "ssmoshi": "0",
             "sousuoshifouercijiequ": "0",
             "ssjiequqian": "空",
             "ssjiequhou": "空",
