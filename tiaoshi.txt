@@ -38,7 +38,7 @@
     ],
     "zhuyejiekou": [
         {
-            "name": "👑工众號：應佣多多",
+            "name": "👑爱电影",
             "url": "https://www.idianying.com.cn/mogai_api.php/v1.vod"
         },
         {
@@ -116,15 +116,7 @@
             "url": "http://vipmv.cc/api.php"
         },
         {
-            "name": "🍇土狗2345",
-            "url": "http://2345.tgzy.cc/api.php"
-        },
-        {
-            "name": "🍇土狗360",
-            "url": "http://360.tgzy.cc/api.php"
-        },
-        {
-            "name": "🍇忆梦",
+            "name": "🍇忆梦资源",
             "url": "http://anltv.cn/api.php"
         },
         {
@@ -176,7 +168,7 @@
             "url": "http://www.kuaibozy.com/api.php"
         },
         {
-            "name": "🍇789盘",
+            "name": "🍇789云盘",
             "url": "https://www.rrvipw.com/api.php"
         },
         {
@@ -256,12 +248,16 @@
             "url": "https://jx.zhanlangbu.com/?url="
         }
     ],
+    
     "dianshizhibo": "https://agit.ai/txcgb/TVBox/raw/branch/master/live/zhibobest.txt",
+    
     "嗅探词": "m3u8?#ixigua#.czspp#.m3u8#mp4#.flv#.mp3#.m4a#?video_id=",
+    
     "guolvdizhi": ".gif#.css#.ico#.html#51.la#poster#?url=#file=#cnzz.com#baidu.com#tootw.com#auete.com#bilibili.com",
+    
     "zidingyi": [
         {
-            "name": "👑工众號：應佣多多",
+            "name": "👑饭团影视",
             "url": "https://www.fantuanhd.com",
             "ua": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36",
             "User": "User-Agent$123",
