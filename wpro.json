@@ -2,7 +2,7 @@
 //{"key":"key_〔资源名称〕","name":"资源名称","type":0,"api":"csp_〔jar内文件名称〕","searchable":1,"quickSearch":1,"filterable":0,"jar":"〔jar文件地址〕","ext":"〔txt json文件地址〕","playUrl":"〔播放解析地址〕","categories":["〔自定义资源列表〕","〔自定义资源列表〕"] },
 //Update:2022-12-01 18:26:59.007629
 
-"spider":"./jar/TVBox3.jar;md5;720a440edfee6a2db32ca33c5d88cb74",
+"spider":"./jar/TVBox3.jar;md5;e4ab3f9d074ec1451a4fe937cda888d3",
 
 //"spider":"./jar/TVBox.jar;md5;112dd3396623b4bebbad3ebd67fb2929",
 
