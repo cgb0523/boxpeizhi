@@ -118,10 +118,6 @@
  "url": "https://m3u8.apiyhzy.com/api.php"
  },
  {
- "name": "🍇酷点资源",
- "url": "https://kudianzy.com/api.php"
- },
- {
  "name": "🍇闪电资源",
  "url": "http://sdzyapi.com/api.php"
  },
@@ -137,6 +133,37 @@
  "name": "🍇快播资源",
  "url": "http://www.kuaibozy.com/api.php"
  },
+
+ {
+ "name": "🍇天空资源",
+ "url": "https://api.tiankongapi.com/api.php/"
+ },
+
+
+ {
+ "name": "🍇酷点资源",
+ "url": "https://kudian10.com/api.php/"
+ },
+ {
+ "name": "🍇有酷资源",
+ "url": "https://api.ukuapi.com/api.php/"
+ },
+ {
+ "name": "🍇TOM资源",
+ "url": "https://api.tomcaiji.com/api.php/"
+ },
+ {
+ "name": "🍇星海资源",
+ "url": "http://www.xhzy01.com/api.php/"
+ },
+ {
+ "name": "🍇爱坤资源",
+ "url": "https://ikunzyapi.com/api.php/"
+ },
+
+
+
+
  {
  "name": "🍇789云盘",
  "url": "https://www.rrvipw.com/api.php"
