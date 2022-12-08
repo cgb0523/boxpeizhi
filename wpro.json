@@ -14,7 +14,7 @@
 //{"key":"mtv_pc_奇艺视频","name":"奇艺视频","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/TVBox.jar"},
 {"key":"mtv_pc_奇艺视频","name":"奇艺视频","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/qq_qiyi_mgtv.jar"},
 {"key":"csp_MGTV","name":"芒果电视","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/qq_qiyi_mgtv.jar"},
-{"key":"csp_QQ","name":"腾讯视频","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1,"categories":["电影","电视剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","灾难片","犯罪片","悬疑片","惊悚片","奇幻片","冒险片","武侠片","其它片","国产剧","港台剧","日韩剧","欧美剧","香港剧","台湾剧","美国剧","韩国剧","日本剧","泰国剧","港澳剧","日剧","韩剧","泰剧","海外剧","马泰剧","中漫","日漫","动漫","纪录片","动画片","国产动漫","港台动漫","日本动漫","海外动漫","日韩动漫","欧美动漫","动漫电影","国内综艺","港台综艺","大陆综艺","日韩综艺","欧美综艺","海外综艺"],"jar":"./jar/qq_qiyi_mgtv.jar"},
+{"key":"csp_QQ","name":"腾讯视频","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/qq_qiyi_mgtv.jar"},
 {"key":"YQK_spider","name":"一起看TV","api":"csp_YQKAPP","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz"},
 {"key":"360","name":"360影视","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"快看影视","name":"快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
