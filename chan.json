@@ -3,6 +3,8 @@
 
 "spider":"./jar/TVBox2.jar;md5;6a92e85399922ff0fd7813bbc2f09957",
 
+"wallpaper":"https://tool.weetai.cn/api",
+
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=./live/zhibobest.txt"]}]}],
 
 "sites":[
