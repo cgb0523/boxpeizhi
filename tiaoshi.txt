@@ -1,39 +1,44 @@
+//持续关注工众號：應佣多多，及时获取最新免费优质软件，本接口自网络收集，仅为不会写代码而又想使用调试助手的粉丝提供便利之用，作者不是本人，而是多位网络大佬，如有冒犯，请联系删除，谢谢！
 {
  "Home": [
+ 
  {
- "key": "采集",
- "title": "采集接口",
- "pic": "http://ys-j.ysepan.com/374992316/419707059/j48652M353HQ85kvTflcd9/zhuye.png"
+ "key":"采集",
+ "title":"采集接口",
+ "pic": "https://agit.ai/txcgb/TVBox/raw/branch/master/pic/zhuye.png"
+ },
+ 
+ {
+ "key":"网页",
+ "title":"自定义接口",
+ "pic": "https://agit.ai/txcgb/TVBox/raw/branch/master/pic/web.png"
+ },
+ 
+ {
+ "key":"APP",
+ "title":"APP资源",
+ "pic": "https://agit.ai/txcgb/TVBox/raw/branch/master/pic/APP.png"
+ },
+ 
+ {
+ "key":"直播",
+ "title":"电视直播",
+ "pic": "https://agit.ai/txcgb/TVBox/raw/branch/master/pic/zb.png"
  },
  {
- "key": "网页",
- "title": "自定义接口",
- "pic": "http://ys-j.ysepan.com/374992356/419707057/j48652M353M95muRile45/web.png"
- },
- {
- "key": "APP",
- "title": "APP资源",
- "pic": "http://ys-j.ysepan.com/374992344/419707053/l73385L245JL4MkyQemg96/APP.png"
- },
- {
- "key": "直播",
- "title": "电视直播",
- "pic": "http://ys-j.ysepan.com/374992311/419707058/kvTflco46471K655HO6677/zb.png"
- },
- {
- "key": "历史",
+ "key":"历史",
  "title": "历史记录",
- "pic": "http://ys-j.ysepan.com/374992355/419707055/muRileq34773K437FM8N3f/his.png"
+ "pic": "https://agit.ai/txcgb/TVBox/raw/branch/master/pic/his.png"
  },
  {
- "key": "收藏",
- "title": "收藏记录",
- "pic": "http://ys-j.ysepan.com/374992350/419707054/n54555J267HM6KmuRile2f/fav.png"
+ "key":"收藏",
+ "title":"收藏记录",
+ "pic": "https://agit.ai/txcgb/TVBox/raw/branch/master/pic/fav.png"
  },
  {
- "key": "推送",
- "title": "影片推送",
- "pic": "http://ys-j.ysepan.com/374992359/419707056/muRileq54555J267HM6U57/tui.png"
+ "key":"推送",
+ "title":"电影推送",
+ "pic": "https://agit.ai/txcgb/TVBox/raw/branch/master/pic/tui.png"
  }
  ],
  
@@ -42,6 +47,12 @@
  "name": "👑爱电影",
  "url": "https://www.idianying.com.cn/mogai_api.php/v1.vod"
  },
+{"name":"👑兔子窝","url":"http://cj.huimaojia.com:12345/mogai_api.php/v1.vod"},
+{"name":"🚀北川影视","url":"https://www.bcwzg.com/api.php/app/"},
+{"name":"🚀奇飞专线","url":"http://mkk.gotka.top/api.php/v1.vod"},
+{"name":"🚀段友影视","url":"http://js.66app.me/api.php/app/"},
+{"name":"🚀创艺电影","url":"http://www.30dian.cn/api.php/v1.vod"},
+{"name":"🚀大猫影视","url":"http://app.ishen520.com/api.php/v1.vod"},
  {
  "name": "🚀暖光影视",
  "url": "https://app.bl210.com/api.php/v1.vod"
@@ -118,6 +129,10 @@
  "url": "https://m3u8.apiyhzy.com/api.php"
  },
  {
+ "name": "🍇酷点资源",
+ "url": "https://kudianzy.com/api.php"
+ },
+ {
  "name": "🍇闪电资源",
  "url": "http://sdzyapi.com/api.php"
  },
@@ -130,40 +145,13 @@
  "url": "https://api.ylzy1.com/api.php"
  },
  {
+ "name": "🍇麒麟资源",
+ "url": "http://www.qilinzyz.com/api.php"
+ },
+ {
  "name": "🍇快播资源",
  "url": "http://www.kuaibozy.com/api.php"
  },
-
- {
- "name": "🍇天空资源",
- "url": "https://api.tiankongapi.com/api.php/"
- },
-
-
- {
- "name": "🍇酷点资源",
- "url": "https://kudian10.com/api.php/"
- },
- {
- "name": "🍇有酷资源",
- "url": "https://api.ukuapi.com/api.php/"
- },
- {
- "name": "🍇TOM资源",
- "url": "https://api.tomcaiji.com/api.php/"
- },
- {
- "name": "🍇星海资源",
- "url": "http://www.xhzy01.com/api.php/"
- },
- {
- "name": "🍇爱坤资源",
- "url": "https://ikunzyapi.com/api.php/"
- },
-
-
-
-
  {
  "name": "🍇789云盘",
  "url": "https://www.rrvipw.com/api.php"
@@ -222,6 +210,14 @@
  ],
  
  "beiyongjiexi": [
+ {
+ "name": "777",
+ "url": "http://txcgb.intelyes.tk/jx/player/777player/?url="
+ },
+ {
+ "name": "热铁盒",
+ "url": "https://txcgb.rth1.one/777/?url="
+ },
  {
  "name": "txcgb",
  "url": "http://txcgb.intelyes.tk/jx/?url="
